@@ -12,21 +12,20 @@ public class Clube {
 	        this.saldoGols = 0;
 	    }
 	    
-	    public void ganhar(int saldoGol) {
+	    public void ganhar(int saldoGols) {
 	        pontos += 3;
-	        saldoGols += saldoGol;
+	        this.saldoGols += saldoGols;
 	    }
 	    
 	    public void empatar() {
 	        pontos += 1;
 	    }
 	    
-	    public void perder(int saldoGol) {
-	        saldoGols += saldoGol;
+	    public void perder(int saldoGols) {
+	        this.saldoGols += saldoGols;
 	    }
 	}
 	
-
 
 
 
