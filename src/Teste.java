@@ -8,7 +8,7 @@ public class Teste {
 	    	String nome;
 	    	
 	    	for(int j=0; j<4;j++) {
-	    		System.out.println("Diga o nome de um Clube:");
+	    		System.out.println("Adicionar clube:");
 	    		nome = n.nextLine();
 	    		time[j] = new Clube(nome, 0, 0);
 	    	}
@@ -19,7 +19,7 @@ public class Teste {
 	        System.out.println("<----Classificação---->");
 	        System.out.println(" ");
 	        for (int i = 0; i < classificacao.length; i++) {
-	            System.out.println((i + 1) + "º lugar: " + classificacao[i]);
+	            System.out.println("|"+(i + 1) + "º lugar: " + classificacao[i]);
 	            System.out.println("-----------------------");
 	        }
 	        campeonato.getCampeao();
