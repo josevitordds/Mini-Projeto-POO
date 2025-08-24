@@ -1,0 +1,58 @@
+2025-06-13 13:41:32,105 - INFO - package: mysql.connector.plugins
+2025-06-13 13:41:32,106 - INFO - plugin_name: caching_sha2_password
+2025-06-13 13:41:32,106 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-06-13 13:41:32,161 - WARNING - [AVISO] numeroContrato 2025NE000266 não encontrado em contratosPncpDetalhado2025. Item 00001 ignorado.
+2025-06-13 13:41:32,427 - INFO - Dados inseridos com sucesso no banco de dados.
+2025-06-13 13:41:32,429 - INFO - Conexão com o banco de dados encerrada com sucesso.
+2025-06-13 13:48:07,440 - INFO - Item 1 - descricaoItem: None
+2025-06-13 13:48:07,440 - INFO - Item 2 - descricaoItem: None
+2025-06-13 13:48:07,440 - INFO - Item 3 - descricaoItem: None
+2025-06-13 13:48:07,440 - INFO - Item 4 - descricaoItem: None
+2025-06-13 13:48:07,440 - INFO - Item 5 - descricaoItem: None
+2025-06-13 13:48:07,482 - INFO - package: mysql.connector.plugins
+2025-06-13 13:48:07,482 - INFO - plugin_name: caching_sha2_password
+2025-06-13 13:48:07,483 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-06-13 13:48:07,536 - WARNING - [AVISO] numeroContrato 2025NE000266 não encontrado em contratosPncpDetalhado2025. Item 00001 ignorado.
+2025-06-13 13:48:07,812 - INFO - Dados inseridos com sucesso no banco de dados.
+2025-06-13 13:48:07,812 - INFO - Conexão com o banco de dados encerrada com sucesso.
+2025-06-13 13:50:17,023 - INFO - Item 1 - descricaoItem: None
+2025-06-13 13:50:17,024 - INFO - Item 2 - descricaoItem: None
+2025-06-13 13:50:17,024 - INFO - Item 3 - descricaoItem: None
+2025-06-13 13:50:17,024 - INFO - Item 4 - descricaoItem: None
+2025-06-13 13:50:17,024 - INFO - Item 5 - descricaoItem: None
+2025-06-13 13:50:17,065 - INFO - package: mysql.connector.plugins
+2025-06-13 13:50:17,065 - INFO - plugin_name: caching_sha2_password
+2025-06-13 13:50:17,065 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-06-13 13:50:17,075 - WARNING - [AVISO] numeroContrato 2025NE000266 não encontrado em contratosPncpDetalhado2025. Item 00001 ignorado.
+2025-06-13 13:50:17,144 - INFO - Dados inseridos com sucesso no banco de dados.
+2025-06-13 13:50:17,144 - INFO - Conexão com o banco de dados encerrada com sucesso.
+2025-06-13 13:51:02,665 - INFO - Item 1 - descricaoIitem: 'ÁCIDO ACÉTICO'
+2025-06-13 13:51:02,665 - INFO - Item 2 - descricaoIitem: 'ÁCIDO NÍTRICO'
+2025-06-13 13:51:02,665 - INFO - Item 3 - descricaoIitem: 'L-GLUTAMATO DE SÓDIO'
+2025-06-13 13:51:02,665 - INFO - Item 4 - descricaoIitem: 'ÁCIDO OXÁLICO'
+2025-06-13 13:51:02,665 - INFO - Item 5 - descricaoIitem: 'POLÍMERO'
+2025-06-13 13:51:02,711 - INFO - package: mysql.connector.plugins
+2025-06-13 13:51:02,711 - INFO - plugin_name: caching_sha2_password
+2025-06-13 13:51:02,712 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-06-13 13:51:02,721 - WARNING - [AVISO] numeroContrato 2025NE000266 não encontrado em contratosPncpDetalhado2025. Item 00001 ignorado.
+2025-06-13 13:51:02,797 - INFO - Dados inseridos com sucesso no banco de dados.
+2025-06-13 13:51:02,797 - INFO - Conexão com o banco de dados encerrada com sucesso.
+2025-06-13 13:51:55,477 - INFO - Item 1 - descricaoIitem: 'ÁCIDO ACÉTICO'
+2025-06-13 13:51:55,479 - INFO - Item 2 - descricaoIitem: 'ÁCIDO NÍTRICO'
+2025-06-13 13:51:55,479 - INFO - Item 3 - descricaoIitem: 'L-GLUTAMATO DE SÓDIO'
+2025-06-13 13:51:55,479 - INFO - Item 4 - descricaoIitem: 'ÁCIDO OXÁLICO'
+2025-06-13 13:51:55,479 - INFO - Item 5 - descricaoIitem: 'POLÍMERO'
+2025-06-13 13:51:55,521 - INFO - package: mysql.connector.plugins
+2025-06-13 13:51:55,521 - INFO - plugin_name: caching_sha2_password
+2025-06-13 13:51:55,521 - INFO - AUTHENTICATION_PLUGIN_CLASS: MySQLCachingSHA2PasswordAuthPlugin
+2025-06-13 13:51:55,574 - WARNING - [AVISO] numeroContrato 2025NE000266 não encontrado em contratosPncpDetalhado2025. Item 00001 ignorado.
+2025-06-13 13:51:55,850 - INFO - Dados inseridos com sucesso no banco de dados.
+2025-06-13 13:51:55,850 - INFO - Conexão com o banco de dados encerrada com sucesso.
+2025-06-13 14:00:01,709 - INFO - Item 1 - descricaoIitem: 'ÁCIDO ACÉTICO'
+2025-06-13 14:00:01,709 - INFO - Item 2 - descricaoIitem: 'ÁCIDO NÍTRICO'
+2025-06-13 14:00:01,709 - INFO - Item 3 - descricaoIitem: 'L-GLUTAMATO DE SÓDIO'
+2025-06-13 14:00:01,709 - INFO - Item 4 - descricaoIitem: 'ÁCIDO OXÁLICO'
+2025-06-13 14:00:01,709 - INFO - Item 5 - descricaoIitem: 'POLÍMERO'
+2025-06-13 14:00:01,752 - WARNING - [AVISO] numeroContrato 2025NE000266 não encontrado em contratosPncpDetalhado2025. Item 00001 ignorado.
+2025-06-13 14:00:01,831 - INFO - Dados inseridos com sucesso no banco de dados.
+2025-06-13 14:00:01,832 - INFO - Conexão com o banco de dados encerrada com sucesso.
